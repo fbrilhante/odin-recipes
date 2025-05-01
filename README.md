@@ -2,13 +2,13 @@
 
 <h1 align= "center"> Making a recipe page to learn about HTML fundamentals</h1>
 
-<p align="center">Things to learn within this project</p>
+<p align="center"><strong>Things to Learn Withing this Project</strong></p>
 <p align="left">
     <ul>
-    <p><strong>Absolute Links</strong></p>
-    <p><strong>Relative Links</strong></p>
-    <p><strong>Images</strong></p>
-    <p><strong>Elements</strong></p>
-    <p><strong>Boilerplate</strong></p>
-    <</ul>  
+    <p>Absolute Links</p>
+    <p>Relative</p>
+    <p>Images</p>
+    <p>Elements</p>
+    <p>Boilerplate</p>
+    </ul>  
 </p>
